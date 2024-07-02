@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>This is for DEVOPS Project</h2>
 </body>
 </html>
